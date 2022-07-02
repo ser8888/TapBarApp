@@ -65,12 +65,12 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="KX8-4M-13m" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-811" y="80"/>
+            <point key="canvasLocation" x="-812" y="54"/>
         </scene>
-        <!--Tab Bar Controller-->
+        <!--Itab Bar Controller-->
         <scene sceneID="Nyk-VD-7yo">
             <objects>
-                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="9Qh-ZZ-QPA" sceneMemberID="viewController">
+                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="9Qh-ZZ-QPA" customClass="UItabBarController" sceneMemberID="viewController">
                     <toolbarItems/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="kXG-Xu-9q2">
                         <autoresizingMask key="autoresizingMask"/>
