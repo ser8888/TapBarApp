@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7FCDF6BA28715877006D703F /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FCDF6B928715877006D703F /* ThirdViewController.swift */; };
+		7FCDF6BC2871601D006D703F /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FCDF6BB2871601D006D703F /* TabBarViewController.swift */; };
 		7FE1BB9A2870702100C28A09 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FE1BB992870702100C28A09 /* AppDelegate.swift */; };
 		7FE1BB9C2870702100C28A09 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FE1BB9B2870702100C28A09 /* SceneDelegate.swift */; };
 		7FE1BB9E2870702100C28A09 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FE1BB9D2870702100C28A09 /* StartViewController.swift */; };
@@ -18,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7FCDF6B928715877006D703F /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		7FCDF6BB2871601D006D703F /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
 		7FE1BB962870702100C28A09 /* TapBarApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TapBarApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FE1BB992870702100C28A09 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7FE1BB9B2870702100C28A09 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -44,6 +48,7 @@
 		7FE1BB8D2870702100C28A09 = {
 			isa = PBXGroup;
 			children = (
+				7FCDF6BB2871601D006D703F /* TabBarViewController.swift */,
 				7FE1BB982870702100C28A09 /* TapBarApp */,
 				7FE1BB972870702100C28A09 /* Products */,
 			);
@@ -65,6 +70,7 @@
 				7FE1BB9D2870702100C28A09 /* StartViewController.swift */,
 				7FE1BBAD2870781700C28A09 /* FirstViewController.swift */,
 				7FE1BBAF2870786900C28A09 /* SecondVIiewController.swift */,
+				7FCDF6B928715877006D703F /* ThirdViewController.swift */,
 				7FE1BB9F2870702100C28A09 /* Main.storyboard */,
 				7FE1BBA22870702200C28A09 /* Assets.xcassets */,
 				7FE1BBA42870702200C28A09 /* LaunchScreen.storyboard */,
@@ -148,6 +154,8 @@
 				7FE1BB9E2870702100C28A09 /* StartViewController.swift in Sources */,
 				7FE1BB9A2870702100C28A09 /* AppDelegate.swift in Sources */,
 				7FE1BB9C2870702100C28A09 /* SceneDelegate.swift in Sources */,
+				7FCDF6BC2871601D006D703F /* TabBarViewController.swift in Sources */,
+				7FCDF6BA28715877006D703F /* ThirdViewController.swift in Sources */,
 				7FE1BBAE2870781700C28A09 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
